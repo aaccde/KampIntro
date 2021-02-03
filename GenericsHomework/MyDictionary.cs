@@ -12,6 +12,7 @@ namespace GenericsHomework
         public MyDictionary()
         {
             array = new T[0];
+
         }
         public void Add(T item) 
         {
